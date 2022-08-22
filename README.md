@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <H1>Hi there! 👋</H!>
+  <H1>Hi there! 👋</H1>
   <img src="[coding](https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F)" width="100"/>
 </div>
 
