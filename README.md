@@ -1,12 +1,13 @@
- ### Hi there 👋
 
 <div id="header" align="center">
+   ### Hi there 👋
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F)" width="100"/>
 </div>
 
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=willasm&show_icons=true&hide_title=true&theme=cobalt)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willasm&layout=compact&theme=cobalt)
+
 <!--
 **willasm/willasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
