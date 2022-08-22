@@ -1,6 +1,8 @@
-### Hi there 👋
 
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+
+<div id="header" align="center" ### Hi there 👋>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F)" width="100"/>
+</div>
 
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=willasm&show_icons=true&hide_title=true&theme=cobalt)
 
