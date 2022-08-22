@@ -1,7 +1,7 @@
 
 
   <H1 align="center">Hi there! 👋</H1>
-  <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+  <p align="center"><img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F)" width="600" height="300"  /></p>
 
 <div align="center">
 
