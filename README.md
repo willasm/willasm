@@ -1,6 +1,6 @@
+ ### Hi there 👋
 
-
-<div id="header" align="center" ### Hi there 👋>
+<div id="header" align="center">
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F)" width="100"/>
 </div>
 
