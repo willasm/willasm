@@ -5,9 +5,11 @@
 </div>
 
 <div align="center">
+
   ![Stats Card](https://github-readme-stats.vercel.app/api?username=willasm&show_icons=true&hide_title=true&theme=cobalt)
 
   ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willasm&layout=compact&theme=cobalt)
+
 </div>
 
 <!--
