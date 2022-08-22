@@ -4,7 +4,7 @@
   <img src="[coding](https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F)" width="100"/>
 </div>
 
-<div id="stats" align="center">
+<div align="center">
   ![Stats Card](https://github-readme-stats.vercel.app/api?username=willasm&show_icons=true&hide_title=true&theme=cobalt)
 
   ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willasm&layout=compact&theme=cobalt)
